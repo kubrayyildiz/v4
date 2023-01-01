@@ -1,0 +1,82 @@
+.headercontainer {
+  position: fixed;
+  z-index:1;
+  width: 100%;
+}
+
+#epik {
+  font-size: 30px;
+  padding-left: 2%;
+  margin-left: 2%;
+}
+#joystick {
+  width: 100px; 
+  background-color: none;
+  border-left: 3px solid rgb(120, 120, 120);
+}
+.konusma-balonu{
+  position: relative;
+  left:25px;
+  top: -15px;
+  width: 0%;
+  height: 0%;
+  border-style: solid;
+  right: 40%;
+  border-bottom:30px solid white;
+  border-left:30px solid transparent;
+  border-right:30px solid transparent;
+  border-top-width: 30px;
+  border-left-width: 15px;
+  border-right-width: 15px;
+  border-color:transparent transparent white  transparent;
+z-index: 1;
+}
+
+#stop1 {
+    background-color: none;
+    border-left: 3px solid rgb(120, 120, 120);
+  }
+  #stop {
+     width: 50px; 
+    background-color: rgb(255, 0, 0);
+    border-radius: 50%;
+  }
+  #robot1 {
+    background-color: none;
+    border-left: 3px solid rgb(120, 120, 120);
+  }
+  #robot {
+    color: black;
+    font-size: 20px;
+    width: 200px;
+    background-color: none;
+  }
+  #misson {
+    background-color: #333333;
+    border-top: 0ch;
+    width: 300px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-left: 3px solid rgb(120, 120, 120);
+  }
+  #batterylevel {
+    border-top: 0ch;
+    width: 100px;
+    background-color: #333333;
+    padding-left: 1%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-left: 3px solid rgb(120, 120, 120);
+  }
+
+
+
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
